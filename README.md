@@ -10,6 +10,8 @@ NOTE: please cite one of the following pubblication in case of using these image
 
 @article{Loddo2021, author = {Andrea Loddo and Lorenzo Putzu}, title = {On the Effectiveness of WBCs Classification Methods in a Real Application Scenario}, journal = {AI}, publisher={MDPI}, volume = {}, number = {}, pages = {}, year = {In review}}
 
+Further segmented masks for ALL-IDB1 data set images can be found @ https://github.com/andrealoddo/ALL-IDB1-masks
+
 ALL-IDB
 ALL-IDB is a public image dataset described in the following article: https://ieeexplore.ieee.org/document/6115881 More information can be found @ https://homes.di.unimi.it/scotti/all/
 
