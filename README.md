@@ -12,10 +12,10 @@ NOTE: please cite one of the following pubblication in case of using these image
 
 Further segmented masks for ALL-IDB1 data set images can be found @ https://github.com/andrealoddo/ALL-IDB1-masks
 
-ALL-IDB
+# ALL-IDB
 ALL-IDB is a public image dataset described in the following article: https://ieeexplore.ieee.org/document/6115881 More information can be found @ https://homes.di.unimi.it/scotti/all/
 
-LICENSE
+# LICENSE
 MIT License
 
 Copyright (c) 2021 Andrea Loddo, Lorenzo Putzu
