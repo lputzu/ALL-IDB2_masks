@@ -8,7 +8,20 @@ NOTE: please cite one of the following pubblication in case of using these image
 
 @article{CDR2016, author = {Cecilia Di Ruberto and Andrea Loddo and Lorenzo Putzu}, title = {A leucocytes count system from blood smear images - Segmentation and counting of white blood cells based on learning by sampling}, journal = {Mach. Vis. Appl.}, volume = {27}, number = {8}, pages = {1151--1160}, year = {2016}, url = {https://doi.org/10.1007/s00138-016-0812-4}, doi = {10.1007/s00138-016-0812-4} }
 
-@article{Loddo2021, author = {Andrea Loddo and Lorenzo Putzu}, title = {On the Effectiveness of WBCs Classification Methods in a Real Application Scenario}, journal = {AI}, publisher={MDPI}, volume = {}, number = {}, pages = {}, year = {In review}}
+
+@Article{ai2030025,
+AUTHOR = {Loddo, Andrea and Putzu, Lorenzo},
+TITLE = {On the Effectiveness of Leukocytes Classification Methods in a Real Application Scenario},
+JOURNAL = {AI},
+VOLUME = {2},
+YEAR = {2021},
+NUMBER = {3},
+PAGES = {394--412},
+URL = {https://www.mdpi.com/2673-2688/2/3/25},
+ISSN = {2673-2688},
+DOI = {10.3390/ai2030025}
+}
+
 
 Further segmented masks for ALL-IDB1 data set images can be found @ https://github.com/andrealoddo/ALL-IDB1-masks
 
