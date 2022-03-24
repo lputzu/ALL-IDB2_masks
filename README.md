@@ -9,6 +9,19 @@ NOTE: please cite one of the following pubblication in case of using these image
 @article{CDR2016, author = {Cecilia Di Ruberto and Andrea Loddo and Lorenzo Putzu}, title = {A leucocytes count system from blood smear images - Segmentation and counting of white blood cells based on learning by sampling}, journal = {Mach. Vis. Appl.}, volume = {27}, number = {8}, pages = {1151--1160}, year = {2016}, url = {https://doi.org/10.1007/s00138-016-0812-4}, doi = {10.1007/s00138-016-0812-4} }
 
 
+@Article{app12073269,
+AUTHOR = {Loddo, Andrea and Putzu, Lorenzo},
+TITLE = {On the Reliability of CNNs in Clinical Practice: A Computer-Aided Diagnosis System Case Study},
+JOURNAL = {Applied Sciences},
+VOLUME = {12},
+YEAR = {2022},
+NUMBER = {7},
+ARTICLE-NUMBER = {3269},
+URL = {https://www.mdpi.com/2076-3417/12/7/3269},
+ISSN = {2076-3417},
+DOI = {10.3390/app12073269}
+}
+
 @Article{ai2030025,
 AUTHOR = {Loddo, Andrea and Putzu, Lorenzo},
 TITLE = {On the Effectiveness of Leukocytes Classification Methods in a Real Application Scenario},
