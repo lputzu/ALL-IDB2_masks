@@ -1,24 +1,24 @@
 # ALL-IDB2_masks
 
-Here, you can find some manually segmented masks for ALL-IDB2 data set images, provided by an expert pathologist.
-Each mask contains 3 labels, one for each image component as follows:
-
-background = 255, 255, 255
-nucleus = 0, 255, 255
-cytoplasm = 0, 0, 255
-
-For example to extract the mask for the whole cell:
-
-In Python
-background = cv2.inRange(img, np.array([255,255,255], dtype=np.uint8), np.array([255,255,255], dtype=np.uint8))
-#to obtain the cell mask
-mask = 255 - background
-
-In MATLAB
-background = img(:,:,1)==255 & img(:,:,2)==255 & img(:,:,3)==255;
-#to obtain the cell mask
-mask = 1 - background
-
+Here, you can find some manually segmented masks for ALL-IDB2 data set images, provided by an expert pathologist. <br>
+Each mask contains 3 labels, one for each image component as follows:<br>
+<br>
+background = 255, 255, 255<br>
+nucleus = 0, 255, 255<br>
+cytoplasm = 0, 0, 255<br>
+<br>
+For example to extract the mask for the whole cell:<br>
+<br>
+In Python<br>
+background = cv2.inRange(img, np.array([255,255,255], dtype=np.uint8), np.array([255,255,255], dtype=np.uint8))<br>
+#to obtain the cell mask<br>
+mask = 255 - background<br>
+<br>
+In MATLAB<br>
+background = img(:,:,1)==255 & img(:,:,2)==255 & img(:,:,3)==255;<br>
+#to obtain the cell mask<br>
+mask = 1 - background<br>
+<br>
 Authors, releasers and maintainers: Andrea Loddo, Lorenzo Putzu - University of Cagliari
 
 NOTE: please cite one of the following pubblication in case of using these images in your own work:
